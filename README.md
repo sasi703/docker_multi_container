@@ -12,12 +12,15 @@ This project demonstrates how to containerize and orchestrate a Python Flask web
 ---
 
 ## 📂 Project Structure
-├── app.py # Flask app using Redis counter
-├── requirements.txt # Python dependencies
-├── Dockerfile # Flask service image
-├── compose.yaml # Docker Compose for web + redis
-├── README.md # Instructions
-└── screenshots/
+
+```bash
+├── app.py             # Flask app using Redis counter
+├── requirements.txt   # Python dependencies
+├── Dockerfile         # Flask service image
+├── compose.yaml       # Docker Compose for web + redis
+├── README.md          # Instructions
+└── screenshots/       # (add your screenshots here)
+
 
 
 ---
@@ -54,3 +57,4 @@ CTRL+C
 
 # Remove containers
 docker compose down
+
