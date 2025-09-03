@@ -59,25 +59,6 @@ CTRL+C
 docker compose down
 
 
-## 📸 Screenshots
-
-### 1. Docker Desktop showing containers
-![Docker Desktop](screenshots/s1.jpg)
-
-### 2. Application running in browser
-![Browser Output](screenshots/s2.jpg)
-
-### 3. Container logs
-![Container Logs](screenshots/s3.jpg)
-
-### 4. docker ps output
-![Docker ps](screenshots/s4.jpg)
-
-### 5. PostgreSQL connection
-![Postgres](screenshots/s5.png)
-
-### 6. Additional
-![Other Screenshot](screenshots/s6.png)
 
 
 
