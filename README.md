@@ -11,7 +11,7 @@ This project demonstrates running a simple **Flask application** with a **Redis 
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── app.py              # Flask app (with Redis counter + /health endpoint)
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile          # Flask service image (using Gunicorn in production)
@@ -19,7 +19,7 @@ This project demonstrates running a simple **Flask application** with a **Redis 
 ├── .dockerignore       # Files ignored in Docker builds
 ├── README.md           # Project documentation
 └── screenshots/        # Screenshots of setup and output
-
+```
 ---
 
 ## 🛠️ Prerequisites
@@ -147,6 +147,7 @@ See the Issues section for full details.
 ## 📌 License
 
 This project is for educational/demo purposes.
+
 
 
 
